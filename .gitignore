@@ -1,14 +1,4 @@
-# Ignore everything
-*
-
-# But not these directories
-!backend/
-!frontend/
-!.gitignore
-!README.md
-!LICENSE
-
-# Node modules in any directory
+# Dependencies
 **/node_modules/
 
 # Build outputs
